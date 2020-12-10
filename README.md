@@ -1,7 +1,7 @@
-# Repositorio de Inegi
+# Información Económica de INEGI
 Búsqueda de información en INEGI para creación de dashboards de principales indicadores económicos y sus pronósticos.
 
-Información que contiene:
+##Información que contiene:
 -PIB
 -Infación
 -Actividad Industrial
